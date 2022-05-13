@@ -1,5 +1,7 @@
  <h1 align="center">Hi 👋, I'm Yeswanth Neerukonda</h1>
  <h3 align="center">Master's Student From University of Essex</h3>
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeswanth-Neerukonda&label=Profile%20views&color=0e75b6&style=flat" alt="Yeswanth-Neerukonda" /> </p>
 
 <!--
 **Yeswanth-Neerukonda/Yeswanth-Neerukonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
