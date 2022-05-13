@@ -1,4 +1,5 @@
  <h1 align="center">Hi 👋, I'm Yeswanth Neerukonda</h1>
+ <h3 align="center">Master's Student From University of Essex</h3>
 
 <!--
 **Yeswanth-Neerukonda/Yeswanth-Neerukonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
